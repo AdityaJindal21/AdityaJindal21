@@ -5,7 +5,7 @@ I'm a passionate **Computer Science student** at **Michigan State University** w
 
 🚀 **Currently working on**:
 - AI-driven systems that enhance productivity and learning.
-- Exploring blockchain technology for secure and transparent data handling.
+- Exploring **blockchain technology** for secure and transparent data handling.
 - Learning about scalable cloud infrastructure and **DevOps workflows**.
 
 🌱 **Learning**: Advanced system design and next-gen tech stacks.
